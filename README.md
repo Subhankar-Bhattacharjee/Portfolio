@@ -7,7 +7,7 @@ University: Iowa State University,
 session started: Fall 2023
 
 
-B Tech – Information Technology, 
+B.Tech. – Information Technology, 
 College Name: Bengal Institute of Technology & Management, Santiniketan; 
 year of pass: 2010
 
