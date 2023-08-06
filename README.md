@@ -1,7 +1,7 @@
 <h1> Name​​: Subhankar Bhattacharjee </h1>
 
 
-<img src="logo.jpg" width="800" /
+<img src="720E7F72-4E5A-49B0-9C76-C3CAA04264CF.jpeg" width="80" />
 
 
 Linkedin <href>https://www.linkedin.com/in/subhankar-bhattacharjee-isu</href>
