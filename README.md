@@ -2,21 +2,21 @@ Name​​:  Subhankar Bhattacharjee
  
  
 EDUCATION
-Computer Science - PhD Student
-University: Iowa State University
+Computer Science - PhD Student, 
+University: Iowa State University, 
 session started: Fall 2023
 
 
-B Tech – Information Technology
-College Name: Bengal Institute of Technology & Management, Santiniketan
+B Tech – Information Technology, 
+College Name: Bengal Institute of Technology & Management, Santiniketan; 
 year of pass: 2010
 
-Class-XII
-School Name: Margaret (S.N.) English School
+Class-XII, 
+School Name: Margaret (S.N.) English School, 
 year of pass: 2006
 
-Class-X
-School Name: S.N.S.V.P.
+Class-X, 
+School Name: S.N.S.V.P., 
 year of pass: 2004
 ​
  
