@@ -63,20 +63,14 @@ Programming Languages
 C#, VB, Batch Scripts, xPression 4.6/20.3
  
 PROJECT DESCRIPTION:
- 
 This project is to support all maintenance and production support request for all Enterprise Forms products. It includes Batch and Online services, including print submission.
  
 CLIENT DESCRIPTION:
- 
 Chubb Limited is the world’s largest publicly traded property and casualty insurer. The company has offices in 54 countries, Chubb and provides commercial and personal property and casualty insurance, personal accident and supplemental health insurance, reinsurance and life insurance.
  
 ROLES AND RESPONSIBILITIES:
- 
 Subhankar has been playing the role of onsite coordinator and technical lead for this project. He was able to quickly adapt to the role and worked to ensure bug free and on-time deliveries and ensured that all production issues that were reported were tracked, triaged and resolved quickly and within the SLA. He developed and introduced several automation tools which reduced the turnaround time for resolution of certain issues dramatically. Also developed and introduced automated monitoring tools which reduced the effort spent by team and proactive identification of issues even before they were reported.
  
-DURATION OF THE PROJECT:
- 
-04/06/2016 – Current
  
 Project Title​
 xPression 4.5 Migration project
