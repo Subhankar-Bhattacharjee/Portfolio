@@ -1,7 +1,7 @@
 title: Subhankar Bhattacharjee, Computer Science PhD Candidate at Iowa State University
 theme: jekyll-theme-tactile
 image: /720E7F72-4E5A-49B0-9C76-C3CAA04264CF.jpeg
-minima:
+tactile:
   social_links:
     - platform: Linkedin  # same as SVG filename.
       user_url: "https://www.linkedin.com/in/subhankar-bhattacharjee-isu"  # URL of profile page.
