@@ -2,7 +2,7 @@ Name​​:  Subhankar Bhattacharjee
  
  
 EDUCATION
-Computer Science - PhD Student, 
+Computer Science - PhD Candidate, 
 University: Iowa State University, 
 session started: Fall 2023
 
