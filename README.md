@@ -197,7 +197,7 @@ C#, .NET 4.0, BatScripts, xPression
  
 PROJECT DESCRIPTION:
  
-All four projects are different modules in different LOBs of ACE. All projects contains huge number of documents (2000-4000) which developed in xdesign. xPression receives xml directly from mainframe and create Policypacks
+All four projects are different modules in different LOBs of ACE. All projects contains huge number of documents (2K-4K) which developed in xdesign. xPression receives xml directly from mainframe and create Policypacks
  
 CLIENT DESCRIPTION:
  
