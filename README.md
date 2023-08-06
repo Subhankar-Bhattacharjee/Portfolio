@@ -1,7 +1,8 @@
 Name​​:  Subhankar Bhattacharjee
  
  
-EDUCATION
+EDUCATION: 
+
 Computer Science - PhD Candidate, 
 University: Iowa State University, 
 session started: Fall 2023
@@ -20,7 +21,7 @@ School Name: S.N.S.V.P.,
 year of pass: 2004
 ​
  
-TECHNICAL SKILLS
+TECHNICAL SKILLS: 
 ​
 Hardware
 Intel
@@ -47,11 +48,16 @@ Address of the employer: 500 Frank W Burr Blvd, Teaneck, NJ 07666, USA
 From: October 2010
 To: July 2023
 Duration(Years): 12 years 10 months
+
  
 PROJECT PROFILE:
+
 Project Title​
+
 Enterprise Forms Committed Maintenance
+
 Duration
+
 04/06/2016 – 07/27/2023
 Location
 Philadelphia, USA/ Halifax, Nova Scotia Canada
@@ -72,11 +78,16 @@ ROLES AND RESPONSIBILITIES:
 Subhankar has been playing the role of onsite coordinator and technical lead for this project. He was able to quickly adapt to the role and worked to ensure bug free and on-time deliveries and ensured that all production issues that were reported were tracked, triaged and resolved quickly and within the SLA. He developed and introduced several automation tools which reduced the turnaround time for resolution of certain issues dramatically. Also developed and introduced automated monitoring tools which reduced the effort spent by team and proactive identification of issues even before they were reported.
  
  
-Project Title​
+Project Title​:
+
 xPression 4.5 Migration project
+
 Duration
+
 06/10/2015 – 03/16/2016
+
 Location
+
 Kolkata, India
 Hardware
 Intel
@@ -101,10 +112,14 @@ DURATION OF THE PROJECT:
 06/10/2015 – 03/16/2016
  
  
-Project Title​
+Project Title​: 
+
 Enterprise Forms – DocX eDelivery, AON
+
 Duration
+
 12/15/2014 – 06/05/2015
+
 Location
 Kolkata, India
 Hardware
@@ -129,11 +144,16 @@ DURATION OF THE PROJECT:
  
 12/15/2014 – 06/05/2015
  
-Project Title​
+Project Title​: 
+
 Enterprise Forms – Genius Canada Checks Migration
+
 Duration
+
 9/15/2014 – 03/05/2015
+
 Location
+
 Kolkata, India
 Hardware
 Intel
@@ -159,9 +179,12 @@ DURATION OF THE PROJECT:
 9/15/2014 – 11/05/2015
  
  
-Project Title​
+Project Title​:
+
 CCSC, AIRPORT, WH GREENE ACE Enterprise Forms (FOUR SIMILAR PROJECTS)
+
 Duration
+
 2/1/2013 – 12/31/2014
 Location
 Kolkata, India
@@ -189,7 +212,7 @@ DURATION OF THE PROJECT:
 2/1/2013 – 12/31/2014
  
  
-Project Title​
+Project Title​: 
 Enterprise Forms – CUSC Xcelerate Migration
 Duration
 12/1/2012 – 3/25/2013
@@ -250,7 +273,7 @@ DURATION OF THE PROJECT:
 5/8/2011 – 6/30/2013
  
  
-Project Title​
+Project Title​: 
 ACE NA COMMITTED – GENIUS ITP
 Duration
 03/11/2011 – 05/07/2011
