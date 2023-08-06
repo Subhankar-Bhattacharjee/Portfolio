@@ -1,4 +1,10 @@
-Name​​:  Subhankar Bhattacharjee
+<h1> Name​​: Subhankar Bhattacharjee </h1>
+
+
+<img src="logo.jpg" width="800" /
+
+
+Linkedin <href>https://www.linkedin.com/in/subhankar-bhattacharjee-isu</href>
  
  
 EDUCATION: 
