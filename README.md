@@ -44,13 +44,18 @@ Philadelphia, USA; Kolkata, India; Halifax, NS, Canada.
  
 SUMMARY:
  
-Subhankar has 154 months (12 years and 10 months) of experience in Information Technology as well as with Cognizant. As part of his assignments he has been trained in Dot Net technology and xPression under the Insurance vertical. He has been a part of Chubb account for 5.8 years where he has worked from Kolkata and is currently working from Philadelphia. He has undertaken developer, analyst and technical lead and onsite coordinator roles in various scenarios. He is also a Cognizant Certified Professional in ECM, xPression and General Insurance.
+Subhankar has 154 months (12 years and 10 months) of experience in Information Technology as well as with Cognizant. As part of his assignments he has been trained in Dot Net technology and xPression under the Insurance vertical. He has been a part of Chubb account for 5.8 years where he has worked from Kolkata and is currently working from Philadelphia. He has undertaken developer, analyst and technical lead and onsite coordinator roles in various scenarios. He is also a Cognizant Certified Professional in ECM, xPression and General Insurance. Currently, working as Graduate Teaching assistant for DBMS courses for Undergraduate students in Iowa state university and pursuing PhD in Computer science.
  
 EMPLOYMENT HISTORY:
- 
+
+Name of the Company: Iowa State University
+Designation: Graduate Teaching Assistant
+From: August 2023
+To: Present
+
+
 Name of the Company: Cognizant Technology Solutions US Corp.
 Designation: Sr. Associate Projects
-Address of the employer: 500 Frank W Burr Blvd, Teaneck, NJ 07666, USA
 From: October 2010
 To: July 2023
 Duration(Years): 12 years 10 months
